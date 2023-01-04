@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, meu nome é Danilo Gomes, sou entusiasta de tecnologia e atualmente possuo experiências em projetos pessoais com desenvolvimento de aplicações Web utilizando linguagem JavaScript e sua biblioteca React, além claro de HTML e Css.
 
+# 💫 About me:
+Hello, my name is Danilo Gomes, I'm a technology enthusiast and I have experience with Web applications using Vanilla JavaScript, React.js, HTML, and CSS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danilogms10/) 
